@@ -1,27 +1,24 @@
 *{justify-items: center;}
-
 .traffic-light{
     background-color: black;
     margin: auto;
     display: inline-block;
     padding: 10px;
 }
-
 .light{
     background-color: gray;
     border-radius: 50%;
     width: 100px;
     height: 100px;
-}
-.red{background-color: red;}
-.yellow{background-color: yellow;}
-.green{background-color: green;}
-
-.shine{
-    box-shadow: 0px 0px 10px 5px rgb(255, 255, 255);
+    margin: 15px 0px 15px 0px;
 }
 .tube{
     background-color: black;
     height: 100px;
     width: 15px;
 }
+.shine{
+    box-shadow: 0px 0px 10px 5px rgb(255, 255, 255);
+}
+
+
